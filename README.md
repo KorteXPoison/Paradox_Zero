@@ -130,13 +130,6 @@ It is:
 
 ---
 
-## 📄 Full Paper
-
-You can read the complete work here:
-👉 [Paradox Zero PDF](./Paradox_Zero-1.pdf)
-
----
-
 ## 🧠 What I Learned
 
 * Abstract concepts can have **real physical implications**
